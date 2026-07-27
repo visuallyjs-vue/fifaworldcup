@@ -1,0 +1,13 @@
+@import "@visuallyjs/browser-ui/css/visuallyjs.css";
+
+.vjs-surface, .vjs-paper {
+    height:100%;
+}
+
+.vjs-controls {
+    position:absolute;
+    left:1rem;
+    top:1rem;
+    z-index:50;
+}
+
