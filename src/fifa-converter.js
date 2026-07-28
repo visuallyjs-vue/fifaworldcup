@@ -203,7 +203,7 @@ export function FIFACountryCode(code) {
         case 'ZAM' : return { countryName: 'Zambia', ISO2: 'ZM'}; break;
         case 'ZIM' : return { countryName: 'Zimbabwe', ISO2: 'ZW'}; break;
         case 'GBR' : return { countryName: 'United Kingdom', ISO2: 'GB'}; break;
-        default: return "Country not found FIFA"; break;
+        default: return {countryName:"Country not found FIFA", ISO2:""}; break;
     }
 
 }

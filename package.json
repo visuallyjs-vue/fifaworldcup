@@ -11,7 +11,7 @@
   "dependencies": {
     "vue": "^3.5.22",
     "@visuallyjs/browser-ui-vue": "^1.2.1",
-    "@visuallyjs/open-football-worldcup-datasource": "*"
+    "@visuallyjs/open-football-worldcup-datasource": "file:./open-football-worldcup-datasource-1.0.3.tgz"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
