@@ -5,7 +5,7 @@ defineProps(['year', 'onViewChange']);
 <template>
   <header class="vjs-fwc-header">
     <div class="vjs-fwc-header-title">
-      FIFI World Cup {{ year }}
+      FIFA World Cup {{ year }}
     </div>
     <nav class="vjs-fwc-header-nav">
       <button @click="onViewChange('teams')" class="vjs-fwc-header-link">
