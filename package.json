@@ -1,7 +1,7 @@
 {
   "name": "visuallyjs-vue-fifaworldcup",
   "private": true,
-  "version": "1.2.5",
+  "version": "1.2.6",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.5.22",
-    "@visuallyjs/browser-ui-vue": "^1.2.5",
+    "@visuallyjs/browser-ui-vue": "^1.2.6",
     "@visuallyjs/open-football-worldcup-datasource": "file:./open-football-worldcup-datasource-1.0.3.tgz"
   },
   "devDependencies": {
